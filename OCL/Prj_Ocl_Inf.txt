@@ -1,0 +1,10 @@
+Ocl_Inf.txt
+
+M:\Prj_Cpp\OCL\TemplateOcl\Vec_Add
+   Simple C OpenCL 1.2
+   
+   
+   
+
+
+
